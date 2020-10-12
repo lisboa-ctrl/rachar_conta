@@ -1,6 +1,10 @@
-# rachar_conta
+# Rachar conta
 
-A new Flutter project.
+Aplicativo para não dar briga no restaurante. O aplicativo divide a conta do restaurante entre o número de pessoas informado e já inclui os 10%
+do garçom na conta final, também é possível fazer divisões onde há um item específico que só algumas pessoas vão pagar, como por exemplo uma mesa
+onde alguns bebem bebidas alcoólicas e outros não.
+Aplicação foi feita no Android-Studio versão 4.0.1
+
 
 ## Getting Started
 
